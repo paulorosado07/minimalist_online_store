@@ -1,4 +1,5 @@
 # Minimalist Online Store
+![img](https://github.com/user-attachments/assets/dbcd4b64-8465-4c7d-8724-8a9fa055c7a7)
 
 This project is a minimalist online store designed to provide a clear and intuitive shopping experience. The layout is crafted to facilitate user decision-making when selecting products, ensuring that the site's aesthetics remain appealing regardless of screen size.
 
